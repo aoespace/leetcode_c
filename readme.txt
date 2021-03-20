@@ -6,3 +6,5 @@ Git tracks changes of file.
 branch test.
 
 conflict test.
+
+multi_user.
