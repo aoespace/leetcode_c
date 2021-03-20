@@ -5,4 +5,4 @@ Git tracks changes of file.
 
 branch test.
 
-conflict Test.
+conflict test.
